@@ -1,0 +1,50 @@
+[{
+    "name": "FRESH CREAM",
+    "price": 190,
+    "description" :" Fresh Cream is used for Icing Cake which makes the cake more delicious",
+    "ratings" : 4.5,
+    "images":[{
+        "image": "freshCream.jpg"
+    }
+        
+    ],
+    "category" :"Essence",
+    "stock" : 10,
+    "numberOfReviews" : 15,
+    "reviews":[]
+
+
+},
+{
+    
+    "name": "YEAST",
+    "price": 165,
+    "description" :" YEAST is used for Baking Cake which makes the cake more delicious",
+    "ratings" : 4.5,
+    "images":[{
+        "image": "yeast.jpg"
+    }
+        
+    ],
+    "category" :"Raw Item",
+    "stock" : 25,
+    "numberOfReviews" : 12,
+    "reviews":[]
+},
+{
+    
+    "name": "COCO POWDER",
+    "price": 560,
+    "description" :" COCO POWDER is used for Chocklate Cake which makes the cake more delicious",
+    "ratings" : 4.5,
+    "images":[{
+        "image": "cocoPowder.jpg"
+    }
+        
+    ],
+    "category" :"Powder",
+    "stock" : 30,
+    "numberOfReviews" : 15,
+    "reviews":[]
+}
+]
